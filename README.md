@@ -52,6 +52,8 @@ What I learned from this task
 - I saw how attackers use spoofed domains and unverified headers to bypass email filters.
 - I practiced real phishing detection methods that can help in cyber awareness and security operations.
 
+If someone receives a suspected phishing email, they should never click on any links or attachments. Instead, the email should be reported to the IT or security team, marked as spam or phishing, and then safely deleted. Taking quick action helps protect both personal and organisational data.
+
 ---
 
 Tools I used
